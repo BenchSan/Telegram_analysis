@@ -1,6 +1,5 @@
 # Telegram_analysis
 It is a code that work with and analyze telegram's messages:
-
 -Percent of received messages from male\female
 -Percent of received messages at night
 -Average amount of week activity
